@@ -1,0 +1,865 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2233371475",
+    "searchQuery": "dark moody studio fashion model oversized streetwear editorial cinematic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1227335725",
+      "https://img1.wsimg.com/isteam/getty/2205855729",
+      "https://img1.wsimg.com/isteam/getty/2129820623",
+      "https://img1.wsimg.com/isteam/getty/981137860"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:01.217Z",
+    "lastUpdated": "2026-06-02T03:12:01.217Z",
+    "gettyId": "2233371475",
+    "alternativeGettyIds": [
+      "1227335725",
+      "2205855729",
+      "2129820623",
+      "981137860"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography",
+    "minimumSize": "x_large"
+  },
+  "pages/home/product-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1170844405",
+    "searchQuery": "oversized streetwear tee puff print detail close up fashion editorial dark",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2178331109",
+      "https://img1.wsimg.com/isteam/getty/1415471320",
+      "https://img1.wsimg.com/isteam/getty/1465781812",
+      "https://img1.wsimg.com/isteam/getty/1865507668"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:03.044Z",
+    "lastUpdated": "2026-06-02T03:20:39.190Z",
+    "gettyId": "1170844405",
+    "alternativeGettyIds": [
+      "2178331109",
+      "1415471320",
+      "1465781812",
+      "1865507668"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 1000,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold"
+  },
+  "pages/home/product-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1975914955",
+    "searchQuery": "luxury hoodie streetwear model wearing oversized premium fashion editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1248402158",
+      "https://img1.wsimg.com/isteam/getty/2156894863"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:03.973Z",
+    "lastUpdated": "2026-06-02T03:12:03.973Z",
+    "gettyId": "1975914955",
+    "alternativeGettyIds": [
+      "1248402158",
+      "2156894863"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 1000,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/product-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2081336780",
+    "searchQuery": "premium streetwear cargo pants model dark studio fashion photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2209674983",
+      "https://img1.wsimg.com/isteam/getty/1369626794"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:05.379Z",
+    "lastUpdated": "2026-06-02T03:12:05.379Z",
+    "gettyId": "2081336780",
+    "alternativeGettyIds": [
+      "2209674983",
+      "1369626794"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 1000,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/product-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2199341729",
+    "searchQuery": "luxury graphic tee premium streetwear model editorial fashion shoot",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1015950574",
+      "https://img1.wsimg.com/isteam/getty/1324009283"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:06.814Z",
+    "lastUpdated": "2026-06-02T03:12:06.814Z",
+    "gettyId": "2199341729",
+    "alternativeGettyIds": [
+      "1015950574",
+      "1324009283"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 1000,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/product-5": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2081193282",
+    "searchQuery": "embroidered premium jacket streetwear luxury fashion editorial dark",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1128080487",
+      "https://img1.wsimg.com/isteam/getty/2151538593"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:08.205Z",
+    "lastUpdated": "2026-06-02T03:12:08.205Z",
+    "gettyId": "2081193282",
+    "alternativeGettyIds": [
+      "1128080487",
+      "2151538593"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 1000,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/product-6": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2187100624",
+    "searchQuery": "premium streetwear shorts model luxury fashion dark studio editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2081336780",
+      "https://img1.wsimg.com/isteam/getty/924382608"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:09.117Z",
+    "lastUpdated": "2026-06-02T03:12:09.117Z",
+    "gettyId": "2187100624",
+    "alternativeGettyIds": [
+      "2081336780",
+      "924382608"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 1000,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/craft-puff": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2264893697",
+    "searchQuery": "puff print 3D raised texture fabric close up macro detail premium",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2220573222",
+      "https://img1.wsimg.com/isteam/getty/1389243199"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:10.839Z",
+    "lastUpdated": "2026-06-02T03:12:10.839Z",
+    "gettyId": "2264893697",
+    "alternativeGettyIds": [
+      "2220573222",
+      "1389243199"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up,macro",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/craft-embroidery": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/135360698",
+    "searchQuery": "high density embroidery close up luxury fabric detail macro texture",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2264893697",
+      "https://img1.wsimg.com/isteam/getty/1269378563"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:12.353Z",
+    "lastUpdated": "2026-06-02T03:12:12.353Z",
+    "gettyId": "135360698",
+    "alternativeGettyIds": [
+      "2264893697",
+      "1269378563"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up,macro",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/craft-dtf": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2266328891",
+    "searchQuery": "DTF print ultra sharp graphic print fabric close up macro detail",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2264893697",
+      "https://img1.wsimg.com/isteam/getty/135360698"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:13.450Z",
+    "lastUpdated": "2026-06-02T03:12:13.450Z",
+    "gettyId": "2266328891",
+    "alternativeGettyIds": [
+      "2264893697",
+      "135360698"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up,macro",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/craft-screen": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/157676242",
+    "searchQuery": "screen print premium finish fabric texture close up macro detail",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/135360698",
+      "https://img1.wsimg.com/isteam/getty/2255518760"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:15.066Z",
+    "lastUpdated": "2026-06-02T03:12:15.066Z",
+    "gettyId": "157676242",
+    "alternativeGettyIds": [
+      "135360698",
+      "2255518760"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up,macro",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/craft-mixed": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1131395380",
+    "searchQuery": "mixed media embroidery and print combination luxury fabric detail close up",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2275277415",
+      "https://img1.wsimg.com/isteam/getty/2260045247"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:16.585Z",
+    "lastUpdated": "2026-06-02T03:12:16.585Z",
+    "gettyId": "1131395380",
+    "alternativeGettyIds": [
+      "2275277415",
+      "2260045247"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "close_up,macro",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/community-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2185663839",
+    "searchQuery": "streetwear fashion community street style urban lifestyle editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1744440387",
+      "https://img1.wsimg.com/isteam/getty/2232383309"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:18.761Z",
+    "lastUpdated": "2026-06-02T03:12:18.761Z",
+    "gettyId": "2185663839",
+    "alternativeGettyIds": [
+      "1744440387",
+      "2232383309"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "moods": "bold,vivid",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/community-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1955200456",
+    "searchQuery": "young man wearing oversized streetwear urban street photography candid",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2157488287",
+      "https://img1.wsimg.com/isteam/getty/2216659668"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:19.071Z",
+    "lastUpdated": "2026-06-02T03:12:19.071Z",
+    "gettyId": "1955200456",
+    "alternativeGettyIds": [
+      "2157488287",
+      "2216659668"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "moods": "bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/community-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/613890644",
+    "searchQuery": "fashion model premium streetwear outdoor urban editorial photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1724842071",
+      "https://img1.wsimg.com/isteam/getty/2111532860"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:20.903Z",
+    "lastUpdated": "2026-06-02T03:12:20.903Z",
+    "gettyId": "613890644",
+    "alternativeGettyIds": [
+      "1724842071",
+      "2111532860"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "moods": "bold,dramatic",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/community-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/843548740",
+    "searchQuery": "streetwear group friends urban fashion lifestyle photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1744440387",
+      "https://img1.wsimg.com/isteam/getty/2229252429"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:22.158Z",
+    "lastUpdated": "2026-06-02T03:12:22.158Z",
+    "gettyId": "843548740",
+    "alternativeGettyIds": [
+      "1744440387",
+      "2229252429"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "moods": "vivid,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/community-6": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1283498421",
+    "searchQuery": "streetwear fashion event launch party urban culture photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2262457670",
+      "https://img1.wsimg.com/isteam/getty/1744440387"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:24.741Z",
+    "lastUpdated": "2026-06-02T03:12:24.741Z",
+    "gettyId": "1283498421",
+    "alternativeGettyIds": [
+      "2262457670",
+      "1744440387"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "moods": "vivid,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/drop-teaser": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1501462495",
+    "searchQuery": "dark dramatic fashion editorial streetwear model silhouette moody cinematic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1305303095",
+      "https://img1.wsimg.com/isteam/getty/1286532280"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:25.788Z",
+    "lastUpdated": "2026-06-02T03:29:50.034Z",
+    "gettyId": "1501462495",
+    "alternativeGettyIds": [
+      "1305303095",
+      "1286532280"
+    ],
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/testimonial-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1450789968",
+    "searchQuery": "young indian man portrait headshot casual confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2257157266"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:27.189Z",
+    "lastUpdated": "2026-06-02T03:12:27.189Z",
+    "gettyId": "1450789968",
+    "alternativeGettyIds": [
+      "2257157266"
+    ],
+    "requestedSize": {
+      "width": 200,
+      "height": 200,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/testimonial-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1357723734",
+    "searchQuery": "young indian woman portrait headshot casual stylish confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/177357626"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:28.478Z",
+    "lastUpdated": "2026-06-02T03:12:28.478Z",
+    "gettyId": "1357723734",
+    "alternativeGettyIds": [
+      "177357626"
+    ],
+    "requestedSize": {
+      "width": 200,
+      "height": 200,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/testimonial-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1357723735",
+    "searchQuery": "young man portrait headshot streetwear fashion confident urban",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1138587678"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:29.586Z",
+    "lastUpdated": "2026-06-02T03:12:29.586Z",
+    "gettyId": "1357723735",
+    "alternativeGettyIds": [
+      "1138587678"
+    ],
+    "requestedSize": {
+      "width": 200,
+      "height": 200,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot",
+    "graphicalStyles": "photography"
+  },
+  "pages/home/testimonial-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/673855034",
+    "searchQuery": "young woman portrait headshot fashion stylish urban confident",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2270114347"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:12:30.853Z",
+    "lastUpdated": "2026-06-02T03:12:30.853Z",
+    "gettyId": "673855034",
+    "alternativeGettyIds": [
+      "2270114347"
+    ],
+    "requestedSize": {
+      "width": 200,
+      "height": 200,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "compositions": "headshot",
+    "graphicalStyles": "photography"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-transparent-b66da5174f2bd81831a73e9b16754546/logo-pramade-b66da5.png",
+    "searchQuery": "PRAMADE",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-transparent-e39ab422067ba5eabfb543db6bbfeeb0/logo-pramade-e39ab4.png"
+    ],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-transparent-b66da5174f2bd81831a73e9b16754546/logo-pramade-b66da5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-solid-bf0f4674e5767ac41656122b603763c9/logo-pramade-bf0f46.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-transparent-e39ab422067ba5eabfb543db6bbfeeb0/logo-pramade-e39ab4.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-solid-eabd9e13306f6aa3bf31dab63241e14a/logo-pramade-eabd9e.png"
+    },
+    "reversedUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-transparent-b66da5174f2bd81831a73e9b16754546/logo-pramade-b66da5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-reversed-84d1e69834a1231a4396ebf2c0796a28/logo-pramade-84d1e6.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-transparent-e39ab422067ba5eabfb543db6bbfeeb0/logo-pramade-e39ab4.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-reversed-d9c540c92aced79d486e7a115a3b50e1/logo-pramade-d9c540.png"
+    },
+    "reversedSolidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-transparent-b66da5174f2bd81831a73e9b16754546/logo-pramade-b66da5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-reversed-solid-b87c806b6126335823d28b05dd3a271f/logo-pramade-b87c80.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-transparent-e39ab422067ba5eabfb543db6bbfeeb0/logo-pramade-e39ab4.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-reversed-solid-28693b182e6946e5890ccb50ebd6feeb/logo-pramade-28693b.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-transparent-b66da5174f2bd81831a73e9b16754546/logo-pramade-b66da5.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-mockup-21488cbdcee50e7c76e60fb248d3c27f/logo-pramade-21488c.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-transparent-e39ab422067ba5eabfb543db6bbfeeb0/logo-pramade-e39ab4.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-mockup-c775ae3b4b2dd719d455e9877ae51a8e/logo-pramade-c775ae.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/076339ff-db1d-46cc-8ce0-6946ad7d9aa9/horizontal-transparent-b66da5174f2bd81831a73e9b16754546/logo-pramade-b66da5.png": {
+        "sessionId": "076339ff-db1d-46cc-8ce0-6946ad7d9aa9",
+        "logoId": "b66da517"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/1be1829d-2a6c-4d6c-bdf9-4a0899dc03dc/session/0717219c-897c-47b9-a916-c8a7d8b54786/horizontal-transparent-e39ab422067ba5eabfb543db6bbfeeb0/logo-pramade-e39ab4.png": {
+        "sessionId": "0717219c-897c-47b9-a916-c8a7d8b54786",
+        "logoId": "e39ab422"
+      }
+    },
+    "userModified": false,
+    "createdAt": "2026-06-02T03:13:03.152Z",
+    "lastUpdated": "2026-06-02T03:13:03.152Z"
+  },
+  "pages/shop/banner": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2227647591",
+    "searchQuery": "premium streetwear fashion editorial dark moody collection banner",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2259157185",
+      "https://img1.wsimg.com/isteam/getty/1482291121"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:36.281Z",
+    "lastUpdated": "2026-06-02T03:17:36.281Z",
+    "gettyId": "2227647591",
+    "alternativeGettyIds": [
+      "2259157185",
+      "1482291121"
+    ],
+    "requestedSize": {
+      "width": 1600,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal,panoramic_horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/shop/product-7": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2242356564",
+    "searchQuery": "oversized graphic tee streetwear model dark studio fashion editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2081336780",
+      "https://img1.wsimg.com/isteam/getty/1400262365"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:37.697Z",
+    "lastUpdated": "2026-06-02T03:17:37.697Z",
+    "gettyId": "2242356564",
+    "alternativeGettyIds": [
+      "2081336780",
+      "1400262365"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 750,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/shop/product-8": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1869410526",
+    "searchQuery": "premium hoodie streetwear model urban fashion photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2185694119",
+      "https://img1.wsimg.com/isteam/getty/1456844824"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:39.912Z",
+    "lastUpdated": "2026-06-02T03:17:39.912Z",
+    "gettyId": "1869410526",
+    "alternativeGettyIds": [
+      "2185694119",
+      "1456844824"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 750,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/shop/product-9": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2266095312",
+    "searchQuery": "cargo pants streetwear model urban editorial photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2271453538",
+      "https://img1.wsimg.com/isteam/getty/2229623122"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:41.250Z",
+    "lastUpdated": "2026-06-02T03:17:41.250Z",
+    "gettyId": "2266095312",
+    "alternativeGettyIds": [
+      "2271453538",
+      "2229623122"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 750,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/shop/product-10": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2252709667",
+    "searchQuery": "varsity jacket streetwear model fashion editorial photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1455093789",
+      "https://img1.wsimg.com/isteam/getty/1170844405"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:41.642Z",
+    "lastUpdated": "2026-06-02T03:17:41.642Z",
+    "gettyId": "2252709667",
+    "alternativeGettyIds": [
+      "1455093789",
+      "1170844405"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 750,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/shop/product-11": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1070782732",
+    "searchQuery": "crewneck sweatshirt premium streetwear model studio photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2201459426",
+      "https://img1.wsimg.com/isteam/getty/1365564150"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:41.951Z",
+    "lastUpdated": "2026-06-02T03:17:41.951Z",
+    "gettyId": "1070782732",
+    "alternativeGettyIds": [
+      "2201459426",
+      "1365564150"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 750,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/shop/product-12": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2268869741",
+    "searchQuery": "shorts streetwear model urban fashion editorial photography",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2266095312",
+      "https://img1.wsimg.com/isteam/getty/1411882987"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:17:43.252Z",
+    "lastUpdated": "2026-06-02T03:17:43.252Z",
+    "gettyId": "2268869741",
+    "alternativeGettyIds": [
+      "2266095312",
+      "1411882987"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 750,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/about/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2245673645",
+    "searchQuery": "dark luxury fashion atelier workshop craftsmanship hands fabric detail moody editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1347224628",
+      "https://img1.wsimg.com/isteam/getty/1430147150"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:53:04.647Z",
+    "lastUpdated": "2026-06-02T03:53:04.647Z",
+    "gettyId": "2245673645",
+    "alternativeGettyIds": [
+      "1347224628",
+      "1430147150"
+    ],
+    "requestedSize": {
+      "width": 1600,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/about/manifesto": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2235500131",
+    "searchQuery": "luxury streetwear black garment close up fabric texture premium cotton heavyweight",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2229525995",
+      "https://img1.wsimg.com/isteam/getty/682654762"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:53:06.381Z",
+    "lastUpdated": "2026-06-02T03:53:06.381Z",
+    "gettyId": "2235500131",
+    "alternativeGettyIds": [
+      "2229525995",
+      "682654762"
+    ],
+    "requestedSize": {
+      "width": 900,
+      "height": 1100,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "moods": "dramatic,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/about/craft": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1496510789",
+    "searchQuery": "embroidery machine close up thread detail fashion production artisan craftsmanship",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2168005292",
+      "https://img1.wsimg.com/isteam/getty/671842092"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:53:07.724Z",
+    "lastUpdated": "2026-06-02T03:53:07.724Z",
+    "gettyId": "1496510789",
+    "alternativeGettyIds": [
+      "2168005292",
+      "671842092"
+    ],
+    "requestedSize": {
+      "width": 900,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "natural,bold",
+    "graphicalStyles": "photography"
+  },
+  "pages/about/community": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2184518786",
+    "searchQuery": "young diverse streetwear fashion community group friends urban style editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1558206387",
+      "https://img1.wsimg.com/isteam/getty/2156911968"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-02T03:53:09.334Z",
+    "lastUpdated": "2026-06-02T03:53:09.334Z",
+    "gettyId": "2184518786",
+    "alternativeGettyIds": [
+      "1558206387",
+      "2156911968"
+    ],
+    "requestedSize": {
+      "width": 1200,
+      "height": 800,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "bold,vivid",
+    "graphicalStyles": "photography"
+  }
+}
